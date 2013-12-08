@@ -1,6 +1,6 @@
 {
   "name": "nav-selector",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Mark a nav item as selected",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,8 @@
   "devDependencies": {
     "tape": "~2.3.0",
     "testling": "~1.5.3",
-    "browserify": "~2.36.1"
+    "browserify": "~2.36.1",
+    "nav": "0.0.1"
   },
   "testling": {
     "files": "tests/*.js",
