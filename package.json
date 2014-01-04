@@ -1,6 +1,6 @@
 {
   "name": "nav-selector",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Mark a nav item as selected",
   "main": "index.js",
   "scripts": {
